@@ -1,0 +1,24 @@
+REDNORTE INMOBILIARIA — SITIO WEB
+===================================
+
+ARCHIVOS:
+  index.html   → ABRE ESTE en tu navegador (contiene todo: HTML + CSS + JS)
+  style.css    → copia de los estilos (referencia / para editores)
+  script.js    → copia de la lógica (referencia / para editores)
+  fotos/       → carpeta con subcarpetas por propiedad
+
+IMPORTANTE:
+  Usa siempre index.html para ver el sitio. 
+  Ese archivo es autocontenido y funciona sin internet (excepto fuentes).
+  Los archivos style.css y script.js son solo para que puedas editar
+  más cómodamente; los cambios debes pegarlos también dentro de index.html.
+
+CÓMO AGREGAR FOTOS:
+  Ver fotos/INSTRUCCIONES.txt
+
+PÁGINAS INCLUIDAS:
+  • Inicio            • Propiedades (con filtros)
+  • Ficha propiedad   • Servicios
+  • Valuación         • Nosotros
+  • Contacto          • Aviso de privacidad
+  • Página 404
